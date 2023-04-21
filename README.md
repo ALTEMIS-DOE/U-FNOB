@@ -13,8 +13,10 @@ Run `training.py` to train either the U-FNOB or U-FNOBR models.
 Pretrained models can be found [here](https://console.cloud.google.com/storage/browser/us-digitaltwiner-pub-features/srs_farea_ensemble_simulations_dataset/final_models).
 
 ## Visualization and Analysis
-Visualize and analyze the models and their performance by using the following Jupyter notebooks:- `output_visualization_UFNOB.ipynb`- `output_visualization_UFNOBR.ipynb`
+Visualize and analyze the models and their performance by using the following Jupyter notebooks:
+
+- `output_visualization_UFNOB.ipynb`
+- `output_visualization_UFNOBR.ipynb`
+
 ## Contributing
 We are open to contributions. Please feel free to submit issues, enhancements, or bug fixes through the GitHub repository.
-## License
-MIT License
